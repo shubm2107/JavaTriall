@@ -1,0 +1,16 @@
+class Pw
+{
+
+   public void main m1()
+  {
+
+         \\\\\\\\\
+  }
+
+public void main m2()
+  {
+
+         ////
+  }
+
+}
